@@ -1,0 +1,4 @@
+irem	  456.00
+beyza	 1000.00
+zeynep	  600.00
+irem	56789.00
